@@ -35,7 +35,7 @@ include_once("connection.php");
                             }
 		
 			            
-			                while($row = pg_fetch_array($result, NULL,  pg_ASSOC)){
+			                while($row = pg_fetch_array($result, NULL, PGSQL_ASSOC)){
 				            ?>
 				            
                             <div class="single-product">

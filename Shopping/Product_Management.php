@@ -49,7 +49,7 @@
             $result=pg_query($conn, "SELECT product_id, product_name, price, pro_qty, pro_image, cat_name
             FROM product a, category b
             WHERE a.cat_id = b.cat_id ORDER BY prodate DESC");
-            while($row=pg_fetch_array($result, NULL, pg_ASSOC)){	
+            while($row=pg_fetch_array($result, NULL, PGSQL_ASSOC)){	
 			?>
 			<tr>
               <td ><?php echo $No ?></td>
