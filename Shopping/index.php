@@ -151,9 +151,9 @@
         {
             include_once("payment.php");
         }
-        elseif($page=="logout")
+        elseif($page=="Logout")
         {
-            include_once("logout.php");
+            include_once("Logout.php");
         }
         elseif($page=="update_product")
         {
