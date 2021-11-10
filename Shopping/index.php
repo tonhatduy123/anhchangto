@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>ANT STORE</title>
+    <title>ATN STORE</title>
     <link rel="stylesheet" href="css/style2.css">
 
     <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
