@@ -168,6 +168,11 @@
         {
             include_once("Update_customer.php");
         }
+        elseif($page=="search")
+        {
+            include_once("Search.php");
+        }
+
     } 
     else{
         include("Content.php");
