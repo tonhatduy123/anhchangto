@@ -71,7 +71,7 @@
 							<ul class="nav navbar-nav collapse navbar-collapse">
 								<li><a href="index.php">Home</a></li>
                                 <li><a class="active"><input type="search" id="search" placeholder="Enter toys name...."></a></li>
-                                <li><a href="">Search</a></li>
+                                <li><a href="Search.php">Search</a></li>
                                 <li><a href="?page=payment">Payment</a></li>
                                 <?php
                                     if(isset($_SESSION['admin']) && $_SESSION['admin']==1){
