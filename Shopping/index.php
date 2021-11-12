@@ -79,9 +79,8 @@
 								<li class="dropdown"><a href="#">Management<i class="fa fa-angle-down"></i></a>
                                     <ul role="menu" class="sub-menu">
                                         <li><a href="?page=Category_Management">Category </a></li>
-										<li><a href="?page=product_management">Product store Can Tho</a></li>
-                                        <li><a href="?page=product_management">Product Bac Lieu</a></li>
-                                        <li><a href="?page=product_management">Product Ca Mau</a></li>
+										<li><a href="?page=product_management">Product</a></li>
+                                      
                                     </ul>
                                     <?php
                                     }
